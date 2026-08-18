@@ -22,11 +22,11 @@
   ##.##.##.##.##.##.          Interests      : cybersecurity, engineering, dessigner, modders
   ##.##.##.##.##.##.          Contact.GitHub : github.com/elllmarley017-pixel
   .#.##.##.##.##.#..          Contact.TG     : t.me/HanzTenzX
-                              Repositories   : N/A
-                              Stars          : N/A
+                              Repositories   : 10
+                              Stars          : 8
                               Followers      : N/A
                               Contributions  : N/A
-                              Languages      : N/A
+                              Languages      : Indonesia
                               ────────────────────────────────────────────
                               ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 
