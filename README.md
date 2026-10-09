@@ -12,16 +12,15 @@
 
 ```text
   ##.##.##.##.##.##.      elllmarley017-pixel@github
-  ##.##.##.##.##.##.      ─────────────────────────────────────────────
-  .#.##.##.##.##.#..      Student & Development Enthusiast
-  ..####.####.####..
+                          ─────────────────────────────────────────────
+  ##.##.##.##.##.##.      Student & Development Enthusiast
+  ##.##.##.##.##.##.
   .#.##.##.##.##.#..      Skills    : Python, Pawn, SQL, SQLite, JavaScript, HTML, CSS
-  ##.##.##.##.##.##.      Interests : Cybersecurity, Engineering, UI/UX Design, Modding
-  ##.##.##.##.##.##.      Location  : Indonesia
-  .#.##.##.##.##.#..      GitHub    : github.com/elllmarley017-pixel
-                          Telegram  : t.me/HanzTenzX
-                          Repos     : 10
-                          Stars     : 8
+  ..####.####.####..      Interests : Cybersecurity, Engineering, UI/UX Design, Modding
+  .#.##.##.##.##.#..      Location  : Indonesia
+  ##.##.##.##.##.##.      GitHub    : github.com/elllmarley017-pixel
+  ##.##.##.##.##.##.      Telegram  : t.me/HanzTenzX
+  .#.##.##.##.##.#..      Stats     : 10 repos · 8 stars
                           ─────────────────────────────────────────────
                           ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 
