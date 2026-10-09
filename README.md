@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=750&lines=elllmarley017-pixel%40github+~;Developer+%26+Engineer+Enthusiast;Dessigner+UI+UX+%7C+Cybersecurity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=750&lines=elllmarley017-pixel%40github+~;Developer+%26+Engineering+Enthusiast;UI%2FUX+Designer+%7C+Cybersecurity" alt="Typing SVG" />
 
 </div>
 
@@ -8,43 +8,38 @@
 
 ---
 
-```
-  ##.##.##.##.##.##.          elllmarley017-pixel@github
-  ##.##.##.##.##.##.          ────────────────────────────────────────────
-  .#.##.##.##.##.#..          Student & Development Enthusiast
-  ..####.####.####..          
-  .#.##.##.##.##.#..          Stack.JS       : node.js, express, telegraf
-  ##.##.##.##.##.##.          Stack.Bot      : gramjs, baileys, telegram api
-  ##.##.##.##.##.##.          Stack.Script   : python, bash, pawn
-  .#.##.##.##.##.#..          Stack.Database : mysql, sqlite
-  ..####.####.####..          Infra          : docker, vps, linux, termux
-  .#.##.##.##.##.#..          Environment    : vscode, android, windows, git
-  ##.##.##.##.##.##.          Interests      : cybersecurity, engineering, dessigner, modders
-  ##.##.##.##.##.##.          Contact.GitHub : github.com/elllmarley017-pixel
-  .#.##.##.##.##.#..          Contact.TG     : t.me/HanzTenzX
-                              Repositories   : 10
-                              Stars          : 8
-                              Followers      : N/A
-                              Contributions  : N/A
-                              Languages      : Indonesia
-                              ────────────────────────────────────────────
-                              ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
+<div align="center">
+
+```text
+  ##.##.##.##.##.##.      elllmarley017-pixel@github
+  ##.##.##.##.##.##.      ─────────────────────────────────────────────
+  .#.##.##.##.##.#..      Student & Development Enthusiast
+  ..####.####.####..
+  .#.##.##.##.##.#..      Skills    : Python, Pawn, SQL, SQLite, JavaScript, HTML, CSS
+  ##.##.##.##.##.##.      Interests : Cybersecurity, Engineering, UI/UX Design, Modding
+  ##.##.##.##.##.##.      Location  : Indonesia
+  .#.##.##.##.##.#..      GitHub    : github.com/elllmarley017-pixel
+                          Telegram  : t.me/HanzTenzX
+                          Repos     : 10
+                          Stars     : 8
+                          ─────────────────────────────────────────────
+                          ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 
 [elllmarley017-pixel@github]-[~]
 └─$ _
 ```
 
-<br>
+</div>
 
 ---
 
 <div align="center">
 
-### Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=nodejs,js,python,php,html,css,mysql,sqlite&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,js,python,php,html,css,mysql,sqlite&perline=8" alt="Languages & databases" />
 <br>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,bash,vscode,androidstudio,kali&perline=8" />
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,bash,vscode,androidstudio,kali&perline=8" alt="Tools" />
 
 </div>
 
@@ -52,12 +47,23 @@
 
 <div align="center">
 
-### Contribution Activity
+### 📊 GitHub Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=elllmarley017-pixel&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elllmarley017-pixel&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9" alt="Top languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ellzx/ellzx/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ellzx/ellzx/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ellzx/ellzx/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ellzx/ellzx/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -66,7 +72,7 @@
 
 <div align="center">
 
-### Connect With Me
+### 📬 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elllmarley017-pixel)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HanzTenzX)
@@ -75,10 +81,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/despisexxc)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/hnzxtzx)
 
-</div>
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=elllmarley017-pixel&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=despisexxc&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
